@@ -3,7 +3,7 @@ import SelectMulti from "./components/SelectMulti";
 function App() {
   return (
     <>
-      <div className="w-11/12 pt-64 mx-auto flex" >
+      <div className="w-4/12  pt-32 mx-auto flex" >
         <SelectMulti/>
       </div>
     </>
